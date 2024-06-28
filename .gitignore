@@ -1,0 +1,5 @@
+HelpDeskDB.db-wal
+HelpDeskDB.db-shm
+HelpDeskDB.db
+/bin
+/obj
