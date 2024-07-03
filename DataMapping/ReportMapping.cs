@@ -8,7 +8,7 @@ namespace HelpDeskApi.DataMapping
     {
         public void Configure(EntityTypeBuilder<Report> builder)
         {
-            builder.ToTable("chamados");
+            builder.ToTable("Chamados");
 
             builder.HasKey(x => x.Id);
 
